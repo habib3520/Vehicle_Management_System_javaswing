@@ -1,0 +1,45 @@
+bike
+suzuki
+gixxer sf fi abs
+japan
+2
+blue
+habib
+khulna metro la 12-8639
+01/01/2021
+embl-673738-884
+bga1-8383987-8348
+148
+30/01/2021
+suzuki cornar khulna
+280000
+bike
+suzuki
+gixxer sf fi abs
+japan
+2
+blue
+habib
+khulna metro la 12-8641
+01/01/2021
+embl-673738-884
+bga1-8383987-8348
+148
+30/01/2021
+suzuki cornar khulna
+280000
+bike
+suzuki
+gixxer sf fi abs
+japan
+2
+blue
+habib
+khulna metro la 12-8642
+01/01/2021
+embl-673738-884
+bga1-8383987-8348
+148
+30/01/2021
+suzuki cornar khulna
+280000
